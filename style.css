@@ -1,0 +1,15 @@
+.parent
+{
+    width: 600px;
+    height: 600px;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
+.card
+{
+    width: 400px;
+    height: 200px;
+    border: 1px dotted rebeccapurple ;
+    background-color: rgb(134, 170, 238);
+}
